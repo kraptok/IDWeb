@@ -1,0 +1,14 @@
+a7edbc3ecae482a07cd3406abaa36eb5fde95d58 HEAD
+0caff327ff510f9121b9559b09798af825e3be7b refs/heads/BASIC
+8679d3bb15341466ce7c73f3c9229ec2c11a2574 refs/heads/C
+08a72ab615c0d8e13a3103f0e3e5be82f817efef refs/heads/C#
+2f09990b823d12a8887c1cb1a0438eb3de80d2fc refs/heads/C++
+f7ec948c40234d835dff71238a38c7a3452a4133 refs/heads/DELPHI
+9cb9990a87018d66dd4fe5554182f59c880d897f refs/heads/HTML
+7c7ebca50d9d900402bbc984a1026da7eef840e5 refs/heads/JS
+c63bd241d3c6271f9efd3e7d12db258953103274 refs/heads/PASCAL
+c08951d4caaef23db35d36491ea5dc374703e84d refs/heads/PHP
+3f62750b0abe1d4dd2d6114da540447ddf472d1f refs/heads/SH
+a7edbc3ecae482a07cd3406abaa36eb5fde95d58 refs/heads/list
+a7edbc3ecae482a07cd3406abaa36eb5fde95d58 refs/heads/main
+6c38befae27564382cdeae572919e0c79c438dc8 refs/remotes/origin/main
